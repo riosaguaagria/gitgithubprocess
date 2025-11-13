@@ -1,5 +1,5 @@
 body {
-    background-color: coral;
+    background-color: darkorange;
 }
 
 h1 {
@@ -8,4 +8,10 @@ h1 {
 
 h2 {
     background-color: lightblue;
+}
+
+ul {
+    margin-left: 1rem;
+    background-color: lightyellow;
+    border: 2px solid black;
 }
